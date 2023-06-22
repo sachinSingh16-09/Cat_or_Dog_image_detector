@@ -1,4 +1,4 @@
-<h1 align="center"> DEEP LEARNING PROJECT(Cat_to_Dog_image_detector) </h1> 
+<h1 align="center"> DEEP LEARNING PROJECT(Cat_or_Dog_image_detector) </h1> 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
   I have created a Convolutional Neural Network that is able to detect various objects in images. I have implemented this Deep Learning model to recognize a cat or a dog in a set of pictures. However, this model can be reused to detect anything else by simply changing the pictures in the input folder. 
